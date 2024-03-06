@@ -15,8 +15,9 @@
   "scripts": {
     "build": "tsc"
   },
+  "private": false,
   "keywords": [],
   "author": "Voroniyx",
   "license": "MIT",
-  "description": "Logger for my acronix packages"
+  "description": "Logger for my projects"
 }
