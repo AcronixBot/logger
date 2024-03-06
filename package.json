@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.20"
+  },
+  "type": "module",
+  "name": "@acronix/logger",
+  "version": "1.0.0",
+  "main": "dist/logger.js",
+  "types": "dist/logger.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Voroniyx",
+  "license": "MIT",
+  "description": "Logger for my acronix packages"
+}
