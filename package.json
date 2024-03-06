@@ -8,7 +8,7 @@
     "@types/node": "^20.11.20"
   },
   "type": "module",
-  "name": "@acronix/logger",
+  "name": "acronix-logger",
   "version": "1.0.0",
   "main": "dist/logger.js",
   "types": "dist/logger.d.ts",
@@ -19,5 +19,8 @@
   "keywords": [],
   "author": "Voroniyx",
   "license": "MIT",
-  "description": "Logger for my projects"
+  "description": "Logger for my projects",
+  "publishConfig": {
+    "access": "public"
+  }
 }
